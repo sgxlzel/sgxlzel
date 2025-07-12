@@ -1,6 +1,6 @@
 <h1 align="center">Hey ✨ I’m Shradha!</h1>
 <p align="center">
-  💻 B.Tech IT Student | web dev Explorer  | | Learning in Public 🚀
+  💻 B.Tech IT Student | web dev Explorer | AI/ML | tech explorer | Learner 🚀
 </p>
 
 ---
