@@ -33,18 +33,10 @@
 
 ### 📂 Projects I’m Working On
 
-- 🎨 `portfolio-website`: My first personal website using HTML & CSS  
-- 💡 `js-practice`: Mini JavaScript projects as I learn  
-- 📸 `image-gallery`: A flexbox layout with cool images  
 - ✨ `gssoc-prep`: My roadmap, resources, and open-source journey
 
 ---
 
-### 📈 GitHub Stats (optional)
-
-![Shradha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sgxlzel&show_icons=true&theme=radical)
-
----
 
 ### 📬 Let’s Connect!
 
